@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "123051922226",
+    "firebase_url": "https://androidupdatetemplateapp.firebaseio.com",
+    "project_id": "androidupdatetemplateapp",
+    "storage_bucket": "androidupdatetemplateapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123051922226:android:bff7237fb455759276bd2b",
+        "android_client_info": {
+          "package_name": "com.aware.androidupdatetemplateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123051922226-4q2e0d920d9ontbcbtgp3hodl5hkah8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aware.androidupdatetemplateapp",
+            "certificate_hash": "08ed34ba4e87274f4500613da7708d2653d61bde"
+          }
+        },
+        {
+          "client_id": "123051922226-mc7fagafg53jtg0pnj94q0ik2o4k9db7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkXZ8rwuSF_6ps6tMXHEbZl-Hft28-zwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123051922226-mc7fagafg53jtg0pnj94q0ik2o4k9db7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
